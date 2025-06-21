@@ -6,10 +6,6 @@
 
 ### ✅ **part 1: Basic Setup**
 
-#### **Create GitHub Repo**
-1. Go to GitHub and create a new repository.
-2. Initialize it with a README file.
-
 #### **Write a Basic Node.js or Static HTML App**
 
 1. If you are using Node.js, create a new file called `index.js` with the following simple app:
